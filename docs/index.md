@@ -1,37 +1,136 @@
-## Welcome to GitHub Pages
+##欢迎来到我的网站
 
-You can use the [editor on GitHub](https://github.com/YiWake/YiWake.nb/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+游戏：Minecraft           访问官网：https://www.minecraft.net
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我的世界是一款沙盒式建造游戏，缔造者为Mojang Studios创始人马库斯·佩尔松，其灵感源于《无尽矿工》､《矮人要塞》和《地下城守护者》。现首席创意官为延斯·伯根斯坦，首席开发者为昂内丝·拉尔森。玩家可以在游戏中的三维空间里创造和破坏林林总总的方块，甚至在多人服务器与单人世界中体验不同的游戏模式，打造精妙绝伦的建筑物，创造物和艺术品。且Minecraft的游戏平台已囊括了移动设备和游戏主机。
+Minecraft着重于让玩家去探索、交互、并且改变一个由一立方米大小的方块动态生成的地图。除了方块以外，环境单体还包括植物、生物与物品。游戏里的各种活动包括采集矿石、与敌对生物战斗、合成新的方块与收集各种在游戏中找到的资源的工具。游戏中的无限制模式让玩家在各种多人游戏服务器或他们的单人模式中进行创造建筑物、作品与艺术创作。其他功能包括逻辑运算与远程动作的红石电路、矿车及轨道，以及称之为“下界”的神秘世界。最终，可以选择前往一个叫做“末路之地”的维度冒险，并击败末影龙。 [67] 
+2014年11月，微软以25亿美元收购了瑞典沙盒游戏《我的世界》游戏开发商——Mojang Studios，而Mojang Studios的业务也已经正式转移至了微软Xbox部门。 [1] 
+2016年，微软、Mojang Studios和网易联合宣布，Mojang Studios将《我的世界》中国大陆地区的独家运营权正式授予网易公司。 [1] 
+中文名我的世界原版名称Minecraft别    名MC，麦块游戏类型沙盒，创造，生存原作者马库斯·阿列克谢·泊松游戏平台Java版：Windows、macOS、Linux [2] 
+基岩版：Android、iOS、Fire OS、Windows 10、Gear VR、Fire TV、Xbox One、PS4、任天堂Switch、Windows 10(mobile) [2-3] 
+教育版：macOS、iOS、Windows 10 [2] 
+原主机版：Xbox360、PS3、PSV、Wii U [2] 
+Windows 10 版：Windows 10 [68] 所属系列沙盒游戏地    区全球（由瑞典开发）开发商Mojang Studios发行公司Mojang Studios
+Microsoft Studios
+网易发行日期2009年5月17日（首个公开版本） [5] 
+2011年11月18日（1.0）
+2017年8月8日（中国版） [6] 游戏售价165 元制作人马库斯·阿列克谢·泊松（notch） [7] 
+（2009年–2014年）已退出制作
+Jens Bergensten（jeb）
+（2014年～）主要配音Dry Hands背景音乐丹尼尔·罗森菲尔德（C418） [4] 
+Minecraft - Volume Alpha内容主题生存，创造，冒险玩家人数玩家设定游戏画面像素风格,3D，高清画质游戏引擎OpenGL、Java、C++游戏分级DEJUS：L
+GSRR：P
+GRB：12+
+ESRB：E(10+) [5] 最新版本1.16.5-rc1/1.17（21w20a）（Java版）
+1.16.221 / Beta 1.17.0.50（基岩版）
+1.14.50（教育版）
+2.16（原主机版）
+1.19.21.107171（中国手机版）展开
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+最新版本大小106.7 MB发行阶段正式版（我的世界：地下城） [7] 
+正式版（Java版、基岩版、中国版）
+测试版（我的世界：地球）结局数无主要角色史蒂夫（即Steve）
+爱丽克丝（即Alex）
+HIM（虚拟人物）语    种英语、简体中文、繁体中文等119种编程语言Java（Java版）,C++（基岩版和中国版）
+目录
+1 游戏内容
+▪ 介绍
+▪ 内容
+2 玩家
+▪ 多人游戏
+▪ 初始
+▪ 状态栏
+▪ 基本操作
+3 物品道具
+▪ 方块
+▪ 挖矿
+4 游戏模式
+▪ 种类
+▪ 难度介绍
+5 生物介绍
+▪ 虚拟生物
+▪ 被动型生物
+▪ 中立型生物
+▪ 攻击型生物
+▪ BOSS生物
+▪ 教育版生物
+6 生物群系
+▪ 温度系统
+▪ 天气系统
+▪ 生物群系种类
+▪ 群系建筑
+7 维度空间
+▪ 主世界
+▪ 下界
+▪ 末路之地
+8 酿造
+▪ 酿造设备
+▪ 材料
+9 附魔
+▪ 附魔途径
+▪ 附魔台
+▪ 铁砧
+▪ 附魔书
+10 农业生产
+11 红石电路
+12 命令
+▪ 使用方法
+▪ 命令概述
+13 进度与成就
+▪ 获取
+▪ 列表
+14 游戏花絮
+▪ 视频游戏
+▪ 影视节目
+15 彩蛋花絮
+▪ 成就彩蛋
+▪ 节日特效
+▪ 彩蛋
+16 衍生影视
+17 游戏平台
+▪ Java版
+▪ 基岩版
+▪ 原主机版
+▪ 任天堂3DS版
+▪ 教育版
+▪ 中国版
+▪ 其他版本
+18 配置要求
+▪ Java版配置要求
+▪ 基岩版配置要求
+19 音乐配音
+20 历史版本
+▪ Java版
+▪ 基岩版
+21 游戏个性化
+▪ 附加包
+▪ 资源包
+▪ 数据包
+▪ 模组
+▪ 皮肤
+▪ 非官方模组
+22 所获荣誉
+23 相关事件
+24 游戏评测
+游戏内容编辑
+介绍
+玩家们可以在游戏中自由选择模式（生存、创造、冒险、极限(仅Java版)和旁观(仅Java版)模式），在各种模式中体验不一样的有趣玩法,在生存模式中享受打怪、冒险等多种乐趣，在创造模式下享受当创世神的乐趣。该游戏以玩家在三维空间中自由地创造和破坏不同种类的方块为主题。玩家在游戏中可以在单人或多人模式中通过摧毁或创造精妙绝伦的建筑物和艺术，或者收集物品探索地图以完成游戏的主线。玩家也可以尝试红石电路和命令方块等高科技玩法。
+主题海报
+主题海报
+内容
+我的世界着重于让玩家去探索、交互，并且改变一个由一立方米大小的方块动态生成的地图。除了方块以外，环境功能还包括植物、生物与物品。游戏里的一些活动包括采集矿石、与敌对生物战斗、合成新的方块与收集各种在游戏中找到的资源的工具。游戏中的无限制模式让玩家在各种多人游戏服务器或他们的单人模式中创造作品与进行艺术创作。其他功能包括逻辑运算与远程动作的红石电路、矿车系统，以及称之为“下界”的神秘世界。最终，可以前往一个叫做“末路之地（末地）”的维度冒险，并击败末影龙。
+玩家编辑
+玩家（Steve默认角色）是用户们在世界中控制的人物。当用户开始一个新游戏，玩家就会被放进由随机或指定的种子世界中，物品栏为空。玩家有10颗心的生命条（即20点生命值），会受到来自敌对生物、中立生物和其他玩家击中所产生的伤害，不同难度伤害不同。生命值可以通过自然恢复（仅在饥饿值满条件下）或饮用特定药水来恢复（和平模式下无条件恢复）。饥饿值也是一个非和平模式的指标，随时间的推移将逐渐消耗，并且在疾跑时将会加剧消耗。食物可以恢复饥饿值。 [8] 
+玩家的皮肤可以在官网的资料页以及Minecraft启动器中进行修改。
+多人游戏
+Hypixel
+Hypixel
+玩家们可以通过服务器和本地联机模式进行愉快的多人游戏内容，Java平台支持跨平台多人模式：Windows，Mac和Linux；基岩版支持跨平台多人模式：与Windows10版本，XboxOne，移动平台和Switch；中国版中著名服务器有花雨庭服务器，EC小游戏服务器，梦之海服务器等；Java版中著名服务器有：hypixe服务器
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YiWake/YiWake.nb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+我的联系邮箱：1721366295@qq.com
